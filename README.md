@@ -1,2 +1,3 @@
-# utr
-utrain website
+# maven-project
+
+Simple Maven Project
